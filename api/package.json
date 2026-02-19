@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "@envsync/api",
   "module": "index.ts",
   "type": "module",
   "private": true,
